@@ -14,7 +14,7 @@ public class CommonTimerExample : MonoBehaviour {
         StartCoroutine(Timer(2, () => { Debug.Log(" 协程  do sm" ); }));
 
         //方法3 uniRx方式实现
-        Observable.Timer(TimeSpan.FromSeconds(5.0f)).Subscribe(_ => { Debug.Log(" uniRx do sm"); });
+        Observable.Timer(TimeSpan.FromSeconds(5.0f) ).Subscribe(_ => { Debug.Log(" uniRx do sm"); });
     }
 	
 	// Update is called once per frame
