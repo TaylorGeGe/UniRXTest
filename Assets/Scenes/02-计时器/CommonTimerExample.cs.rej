@@ -1,0 +1,10 @@
+diff a/Assets/Scenes/02-计时器/CommonTimerExample.cs b/Assets/Scenes/02-计时器/CommonTimerExample.cs	(rejected hunks)
+@@ -14,7 +14,7 @@
+         StartCoroutine(Timer(2, () => { Debug.Log(" 协程  do sm" ); }));
+ 
+         //方法3 uniRx方式实现
+-        Observable.Timer(TimeSpan.FromSeconds(5.0f)).Subscribe(_ => { Debug.Log(" uniRx do sm"); });
++        Observable.Timer(TimeSpan.FromSeconds(5.0f) ).Subscribe(_ => { Debug.Log(" uniRx do sm"); });
+     }
+ 	
+ 	// Update is called once per frame
