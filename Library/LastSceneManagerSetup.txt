@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Scenes/02-\u8BA1\u65F6\u5668/02-Timer.unity"
+- path: Assets/Scenes/08-ReactiveProperty/08-ReactiveProperty.unity
   isLoaded: 1
   isActive: 1
