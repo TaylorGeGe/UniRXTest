@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/08-ReactiveProperty/08-ReactiveProperty.unity
+- path: "Assets/Scenes/11-PaneEventLock\u5F53\u4E00\u4E2A\u6309\u94AE\u88AB\u70B9\u51FB
+    \u5176\u4ED6\u6309\u94AE\u90FD\u4E0D\u80FD\u88AB\u64CD\u4F5C/11-PaneEventLock.unity"
   isLoaded: 1
   isActive: 1

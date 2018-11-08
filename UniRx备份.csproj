@@ -261,6 +261,10 @@
     <Compile Include="Assets\Scenes\06-First\First06.cs" />
     <Compile Include="Assets\Scenes\07-UGUI\UGUI07.cs" />
     <Compile Include="Assets\Scenes\08-ReactiveProperty\ReactiveProperty08.cs" />
+    <Compile Include="Assets\Scenes\09-MVP\MVP09.cs" />
+    <Compile Include="Assets\Scenes\10-Merge(合并)\Merge10.cs" />
+    <Compile Include="Assets\Scenes\11-PaneEventLock当一个按钮被点击 其他按钮都不能被操作\PaneEventLock11.cs" />
+    <Compile Include="Assets\Scenes\NewBehaviourScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\UniRx\Examples\UniRx.Examples.asmdef" />
