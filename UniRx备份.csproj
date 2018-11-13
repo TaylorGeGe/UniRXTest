@@ -253,18 +253,23 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\01-鼠标点击\Test01_InputMouse.cs" />
-    <Compile Include="Assets\Scenes\02-计时器\CommonTimerExample.cs" />
-    <Compile Include="Assets\Scenes\03-Update\UniRxUpdate.cs" />
-    <Compile Include="Assets\Scenes\04-AddTo\AddTo04.cs" />
-    <Compile Include="Assets\Scenes\05-Where\Where05.cs" />
-    <Compile Include="Assets\Scenes\06-First\First06.cs" />
-    <Compile Include="Assets\Scenes\07-UGUI\UGUI07.cs" />
-    <Compile Include="Assets\Scenes\08-ReactiveProperty\ReactiveProperty08.cs" />
-    <Compile Include="Assets\Scenes\09-MVP\MVP09.cs" />
-    <Compile Include="Assets\Scenes\10-Merge(合并)\Merge10.cs" />
-    <Compile Include="Assets\Scenes\11-PaneEventLock当一个按钮被点击 其他按钮都不能被操作\PaneEventLock11.cs" />
     <Compile Include="Assets\Scenes\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scenes\第一章\01-鼠标点击\Test01_InputMouse.cs" />
+    <Compile Include="Assets\Scenes\第一章\02-计时器\CommonTimerExample.cs" />
+    <Compile Include="Assets\Scenes\第一章\03-Update\UniRxUpdate.cs" />
+    <Compile Include="Assets\Scenes\第一章\04-AddTo\AddTo04.cs" />
+    <Compile Include="Assets\Scenes\第一章\05-Where\Where05.cs" />
+    <Compile Include="Assets\Scenes\第一章\06-First\First06.cs" />
+    <Compile Include="Assets\Scenes\第一章\07-UGUI\UGUI07.cs" />
+    <Compile Include="Assets\Scenes\第一章\08-ReactiveProperty\ReactiveProperty08.cs" />
+    <Compile Include="Assets\Scenes\第一章\09-MVP\MVP09.cs" />
+    <Compile Include="Assets\Scenes\第一章\10-Merge(合并)\Merge10.cs" />
+    <Compile Include="Assets\Scenes\第一章\11-PaneEventLock当一个按钮被点击 其他按钮都不能被操作\PaneEventLock11.cs" />
+    <Compile Include="Assets\Scenes\第二章\01-登陆场景\LoginPanel01.cs" />
+    <Compile Include="Assets\Scenes\第二章\02-UnityRxUpdate\UnityRxUndate02.cs" />
+    <Compile Include="Assets\Scenes\第二章\03-UITrigger\UITrigger03.cs" />
+    <Compile Include="Assets\Scenes\第二章\04-Coroutine协程\Coroutine_04.cs" />
+    <Compile Include="Assets\Scenes\第二章\05-CoroutineWhenAll\CoroutineWhenAll05.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\UniRx\Examples\UniRx.Examples.asmdef" />
