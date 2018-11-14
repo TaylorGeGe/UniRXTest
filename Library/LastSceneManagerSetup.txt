@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Scenes/\u7B2C\u4E8C\u7AE0/05-CoroutineWhenAll/05-CoroutineWhenAll.unity"
+- path: "Assets/Scenes/\u7B2C\u4E8C\u7AE0/08-ReactiveCommand/08-ReactiveCommand.unity"
   isLoaded: 1
   isActive: 1

@@ -270,6 +270,9 @@
     <Compile Include="Assets\Scenes\第二章\03-UITrigger\UITrigger03.cs" />
     <Compile Include="Assets\Scenes\第二章\04-Coroutine协程\Coroutine_04.cs" />
     <Compile Include="Assets\Scenes\第二章\05-CoroutineWhenAll\CoroutineWhenAll05.cs" />
+    <Compile Include="Assets\Scenes\第二章\06-Thread\Thread06.cs" />
+    <Compile Include="Assets\Scenes\第二章\07-WWW\WWW07.cs" />
+    <Compile Include="Assets\Scenes\第二章\08-ReactiveCommand\ReactiveCommand08.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\UniRx\Examples\UniRx.Examples.asmdef" />
